@@ -4,6 +4,13 @@
 ### Apaixonado por programação, estou estudando para aprender todas as linguagens possíveis e abrir minha própria empresa de programação. 
 ### A área que mais tenho afinidade é a Programação WEB, mas também gosto de C++ e JAVA.
 
+<br />
+
+### Hi, my name is Gabriel Avelino 🤙.
+### I am a Systems Information student currently in the 3rd semester, and a Computer Technician, graduated in 2015.
+### Passionate about programming, I am studying to learn all possible programming languages and open my own programming company.
+### The area that I am most passionate about is Web Programming, but I also like C++ and Java.
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avelino.save/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/avelino.save/) 
 
